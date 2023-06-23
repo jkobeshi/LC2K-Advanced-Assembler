@@ -1,0 +1,82 @@
+27 19 18 17
+8454179
+8519716
+8585250
+23003136
+25165824
+8781856
+5
+1441794
+655364
+10682368
+18350085
+8650785
+2883589
+16908289
+16842744
+24838144
+8454171
+8519708
+8650781
+8781854
+29360128
+18481156
+29360128
+2686981
+1835011
+24576000
+25165824
+33
+13
+1
+4
+0
+-1
+1
+5
+37
+0
+0
+0
+1
+-1
+0
+0
+0
+1
+-2
+ArrayS D 8
+Num D 9
+Fcall D 7
+Find T 5
+NegOne D 5
+Top T 7
+Car T 9
+Mar T 10
+Mark T 16
+One D 6
+Done T 15
+Zero D 4
+Array D 10
+G9 U 0
+G3 U 0
+Globe U 0
+Gl1 U 0
+Gl2 U 0
+0 lw ArrayS
+1 lw Num
+2 lw Fcall
+5 lw NegOne
+11 lw One
+16 lw mplier
+17 lw mcand
+18 lw one
+19 lw st
+7 .fill Find
+8 .fill Array
+9 .fill G9
+10 .fill G3
+11 .fill G3
+14 .fill Globe
+15 .fill Gl1
+16 .fill Gl2

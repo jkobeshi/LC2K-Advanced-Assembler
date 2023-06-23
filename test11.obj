@@ -1,0 +1,45 @@
+0 21 14 9
+33
+13
+1
+4
+0
+-1
+1
+0
+10
+0
+0
+13
+13
+0
+1
+-1
+0
+0
+0
+1
+3
+Zero D 4
+NegOne D 5
+One D 6
+Fcall D 7
+Find U 0
+ArrayS D 8
+Array D 10
+Num D 9
+G9 U 0
+G3 U 0
+DA D 11
+Globe U 0
+Gl1 U 0
+Gl2 U 0
+7 .fill Find
+8 .fill Array
+9 .fill G9
+10 .fill G3
+13 .fill G3
+16 .fill Globe
+17 .fill Gl1
+18 .fill Gl2
+20 .fill st

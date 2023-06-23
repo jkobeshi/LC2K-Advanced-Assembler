@@ -1,0 +1,103 @@
+30 15 32 25
+29360128
+29360128
+25165824
+25165824
+25165824
+25165824
+25165824
+20971520
+21626880
+22609920
+21299200
+23658496
+29360128
+29360128
+29360128
+12582912
+13500416
+14090247
+17301503
+17563647
+18087949
+19791871
+20381686
+9240613
+9699364
+10158080
+10616832
+11075626
+16384035
+15794210
+0
+0
+0
+0
+12
+13
+26
+24
+5
+4
+2
+14
+0
+0
+0
+K T 0
+L T 1
+M T 4
+N T 5
+O T 6
+I T 10
+J T 11
+Z U 0
+D T 16
+X U 0
+E T 17
+F T 18
+G T 19
+T D 4
+H T 22
+A T 23
+W D 7
+B T 24
+V D 6
+C T 25
+U D 5
+P D 0
+Dair U 0
+Q D 1
+Zo U 0
+R D 2
+Roast U 0
+S D 3
+Pork U 0
+Zoo U 0
+Dairy U 0
+Var U 0
+15 sw Z
+16 sw X
+17 sw h
+23 lw W
+24 lw V
+25 lw X
+26 lw Z
+27 lw t
+28 sw U
+29 sw T
+0 .fill Dair
+1 .fill Zo
+2 .fill Roast
+3 .fill Pork
+4 .fill k
+5 .fill l
+6 .fill a
+7 .fill B
+8 .fill N
+9 .fill M
+10 .fill n
+11 .fill m
+12 .fill Zoo
+13 .fill Dairy
+14 .fill Var

@@ -1,0 +1,39 @@
+15 5 5 13
+8454159
+8519699
+8650769
+8781843
+8454159
+8519696
+8650769
+8781842
+29360128
+18481156
+29360128
+2686981
+1835011
+24576000
+25165824
+0
+0
+0
+0
+19
+Stack D 4
+End U 0
+Glove U 0
+Hal U 0
+Car U 0
+0 lw mplier
+1 lw Stack
+2 lw one
+3 lw Stack
+4 lw mplier
+5 lw mcand
+6 lw one
+7 lw st
+0 .fill End
+1 .fill Glove
+2 .fill Hal
+3 .fill Car
+4 .fill Stack
